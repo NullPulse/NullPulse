@@ -12,7 +12,7 @@
 ### 📱 _Social:_
 [Instagram](https://instagram.com/katz.py/)<br />
 [Github](https://github.com/redKatz/)<br />
-[Jami](https://i.ibb.co/hmCkY1m/Screenshot-20220724-192852.png)
+[Jami](https://i.ibb.co/c6dVPJK/Schermata-del-2022-09-22-21-14-45.png)
 
 
 
