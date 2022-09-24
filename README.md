@@ -11,8 +11,7 @@
 
 ### Find me on:
 
-[![name](https://github.com/htr-tech/htr-tech/raw/master/assets/github.png)](https://github.com/SamueleAmato/)
-
+<img src="https://github.com/SamueleAmato/" data-canonical-src="https://i.ibb.co/Q9KrpgS/github.png" width="200" height="400" />
 
 
 
