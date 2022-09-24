@@ -9,7 +9,7 @@
 
 
 
-### 🛰 Get in Touch :
+### 📡 Get in Touch :
 
 [![name](https://i.ibb.co/f0bK38n/github-1.png)](https://github.com/SamueleAmato/)
 [![name](https://i.ibb.co/F7Zbygb/instagram.png)](https://github.com/SamueleAmato/)
