@@ -11,7 +11,7 @@
 
 ### Find me on:
 
-[![name](/htr-tech/htr-tech/raw/master/assets/github.png)](https://github.com/SamueleAmato/)
+[![name](https://github.com/htr-tech/htr-tech/raw/master/assets/github.png =50x30)](https://github.com/SamueleAmato/)
 
 
 
