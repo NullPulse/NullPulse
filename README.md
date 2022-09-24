@@ -16,5 +16,3 @@
 
 
 
-
-https://i.ibb.co/F7Zbygb/instagram.png
