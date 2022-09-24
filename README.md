@@ -11,7 +11,7 @@
 
 ### Find me on:
 
-[![name](https://i.ibb.co/Q9KrpgS/github.png)](https://github.com/SamueleAmato/)
+[![name](/htr-tech/htr-tech/raw/master/assets/github.png)](https://github.com/SamueleAmato/)
 
 
 
