@@ -1,4 +1,4 @@
-[![Top Langs]([![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/SamueleAmato/github-readme-stats)
+[![Top Langs]([![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamueleAmato)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/SamueleAmato/github-readme-stats)
 # Hi there, it's sam 👋
 ##### 💻 **_Studente presso Istituto Tecnico Industriale Galileo Ferraris_**
 ### 😺 _About me:_ 
