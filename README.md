@@ -11,7 +11,8 @@
 
 ### Find me on:
 
-<img src="https://github.com/SamueleAmato/" data-canonical-src="https://i.ibb.co/Q9KrpgS/github.png" width="50" height="40" />
+[![name](https://i.ibb.co/Q9KrpgS/github.png)](https://github.com/SamueleAmato/)
+
 
 
 
