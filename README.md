@@ -11,7 +11,7 @@
 
 ### Find me on:
 
-[![name](https://camo.githubusercontent.com/1bd9c02d067702f4cc56bc23d0432260cf89cf46ecae6c48e0dbc656ae7fc483/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562)](https://github.com/SamueleAmato/)
+[![name](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png = 50x50)](https://github.com/SamueleAmato/)
 
 
 
