@@ -1,4 +1,6 @@
-[![Top Langs]([![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamueleAmato)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/SamueleAmato/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato&theme=tokyonight)
+
+
 # Hi there, it's sam 👋
 ##### 💻 **_Studente presso Istituto Tecnico Industriale Galileo Ferraris_**
 ### 😺 _About me:_ 
