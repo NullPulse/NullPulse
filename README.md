@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato)](https://github.com/SamueleAmato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato=compact&theme=react&hide_border=true)](https://github.com/SamueleAmato/github-readme-stats)
 # Hi there, it's sam 👋
 ##### 💻 **_Studente presso Istituto Tecnico Industriale Galileo Ferraris_**
 ### 😺 _About me:_ 
