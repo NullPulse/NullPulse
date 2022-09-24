@@ -11,7 +11,7 @@
 
 ### Find me on:
 
-[![name](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png = 50x50)](https://github.com/SamueleAmato/)
+[![name](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/SamueleAmato/)
 
 
 
