@@ -1,5 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi there, it's sam 👋
 ##### 💻 **_Studente presso Istituto Tecnico Industriale Galileo Ferraris_**
