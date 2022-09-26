@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato&theme=tokyonight))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato&theme=tokyonight)
 
 
 # Hi there, it's sam 👋
