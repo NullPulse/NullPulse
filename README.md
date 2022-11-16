@@ -11,8 +11,8 @@
 - 🇮🇹 Italy
 
 <p align="center">
-  <a href="https://python.org" target="_blank"><img alt="home" src="https://img.shields.io/badge/I love Python-pink?style=for-the-badge&logo=python&logoColor="></a>
-  <a href="https://archcraft.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch LInux-green?style=for-the-badge&logo=arch-linux&logoColor=darkblue"></a>
+
+  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use LInux-pink?style=for-the-badge&logo=linux&logoColor=darkblue"></a>
 </p>
 
 
