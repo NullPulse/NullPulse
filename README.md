@@ -4,7 +4,7 @@
 
 </p>
 
-- 🔭 I’m currently working on [exaPhisher](github.com/SamueleAmato/exaPhisher)
+- 🔭 I’m currently working on [exaPhisher](https://github.com/SamueleAmato/exaPhisher)
 - 🌱 I’m currently learning sqli
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: [Telegram](https://t.me/Samuele_Amato)
