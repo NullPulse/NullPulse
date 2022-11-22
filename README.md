@@ -11,7 +11,7 @@
 - 🇮🇹 Italy
 
 <p align="center">
-  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use LInux-pink?style=for-the-badge&logo=linux&logoColor=darkblue"></a>
+  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch-pink?style=for-the-badge&logo=arch&logoColor=darkblue"></a>
   <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/Trying to learn sqli-pink?style=for-the-badge&logo=&logoColor=darkblue"></a>
 
 </p>
