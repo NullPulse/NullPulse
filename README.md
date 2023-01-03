@@ -21,10 +21,5 @@
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=SamueleAmato&show_icons=true&hide_border=false&theme=synthwave">
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato&layout=compact&theme=dark"></p>
 
-## Dontaions
-[Help me buy a thinkpad t430](https://www.paypal.com/paypalme/SamueleAmato0001)
-<p align="center">
-
-![](https://i.ibb.co/qB3HjMN/41-L7-Xxh0l8-L-fococlipping-standard.png)
 
 </p>
