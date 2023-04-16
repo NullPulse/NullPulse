@@ -4,10 +4,10 @@
 
 </p>
 
-- 🔭 I’m currently working on [exaPhisher](https://github.com/RedKatz/exaPhisher)
+- 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
 - 🌱 I’m currently learning sqli
 - 👯 I’m looking to collaborate on Github
-- 📫 How to reach me: [Telegram](https://t.me/RedKatz)
+- 📫 How to reach me: [Telegram](currently off)
 - 🇮🇹 Italy
 
 <p align="center">
