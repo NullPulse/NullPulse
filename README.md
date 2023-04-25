@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
 - 🌱 I’m currently learning sqli
 - 👯 I’m looking to collaborate on Github
-- 📫 How to reach me: [Jami](https://ibb.co/Y3zTW48)
+- 📫 How to reach me: [Jami](https://i.postimg.cc/Hx0bCrgx/ksnip-20230425-121238.png)
 - 🇮🇹 Italy
 
 <p align="center">
