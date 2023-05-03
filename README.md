@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
 - 🌱 I’m currently learning sqli
 - 👯 I’m looking to collaborate on Github
-- 📫 How to reach me: [Jami](https://i.postimg.cc/Hx0bCrgx/ksnip-20230425-121238.png)
-- 🇮🇹 Italy
+- 📫 How to reach me: [Twitter](https://twitter.com/redKatz_?t=R97q0bZBFesNCojzcDMt-Q&s=09)
+
 
 <p align="center">
   <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch-pink?style=for-the-badge&logo=archlinux&logoColor=darkblue"></a>
