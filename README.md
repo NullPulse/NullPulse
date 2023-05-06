@@ -5,21 +5,31 @@
 </p>
 
 - 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
-- 🌱 I’m currently learning sqli
+- 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: [Twitter](https://twitter.com/redKatz_?t=R97q0bZBFesNCojzcDMt-Q&s=09)
 
+---
 
 <p align="center">
-  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch-pink?style=for-the-badge&logo=archlinux&logoColor=darkblue"></a>
-  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/Trying to learn sqli-pink?style=for-the-badge&logo=&logoColor=darkblue"></a>
+
+<h3 align="center">My Github Stats</h3>
+</p>
+
+<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=RedKatz&show_icons=true&hide_border=false&theme=dark">
+<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKatz&layout=large&theme=dark"></p>
+
 
 </p>
 
 
-## My Github Stats
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=RedKatz&show_icons=true&hide_border=false&theme=synthwave">
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKatz&layout=compact&theme=dark"></p>
+
+---
+
+<p align="center">
+  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Void LINUX-gray?style=for-the-badge&logo=linux&logoColor=darkblue"></a>
 
 
 </p>
+
+
