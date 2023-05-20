@@ -7,7 +7,8 @@
 - 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on Github
-- 📫 How to reach me: [Telegram](https://t.me/zztakdeR)
+- 📫 How to reach me for commissioned programs or collab:
+: [Telegram](https://t.me/zztakdeR)
 
 ---
 
