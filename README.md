@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on Github
-- 📫 How to reach me for commissioned programs or collab:
-: [Telegram](https://t.me/zztakdeR)
+- 📫 How to reach me for commissioned **programs or collab**: [Telegram](https://t.me/zztakdeR)
 
 ---
 
@@ -18,7 +17,7 @@
 </p>
 
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=RedKatz&show_icons=true&hide_border=false&theme=dark">
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKatz&layout=large&theme=dark"></p>
+<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKatz"></p>
 
 
 </p>
