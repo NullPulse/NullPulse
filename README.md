@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Void LINUX-gray?style=for-the-badge&logo=linux&logoColor=darkblue"></a>
+  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I%20Use%20Artix%20LINUX-gray?style=for-the-badge&logo=artixlinux&logoColor=li"></a>
 
 
 </p>
