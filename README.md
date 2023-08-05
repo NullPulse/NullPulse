@@ -17,7 +17,7 @@
 </p>
 
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=RedKatz&show_icons=true&hide_border=false&theme=dark">
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKatz&theme=dark&layout=donaut"></p>
+<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKatz&theme=dark&layout=donut"></p>
 
 </p>
 
