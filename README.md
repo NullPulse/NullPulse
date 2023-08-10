@@ -16,10 +16,11 @@
 <h3 align="center">My Github Stats</h3>
 </p>
 
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=RedKatz&show_icons=true&hide_border=false&theme=dark">
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKatz&theme=dark&layout=donut"></p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=redkatz&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redkatz&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
-</p>
 
 
 
