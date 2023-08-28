@@ -20,3 +20,7 @@
 - [ExaPhisher](https://github.com/RedKatz/ExaPhisher) - 🐟 All in one Phishing Toolkit
 - [Lawliet](https://github.com/RedKatz/LawLiet) - 🕵️ Track down social media profiles using a specific username across multiple social network platforms 
 
+### Find me on:
+
+- [Telegram](t.me/redkatz) - **Only** for collab or commissionated program.
+- [For issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) - **Only** if you have an issue.
