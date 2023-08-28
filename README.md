@@ -1,35 +1,22 @@
-<p align="center">
- 
-<h1 align="center">HI! I am @<a href="https://github.com/RedKatz/">RedKatz</a></h1>
-
-</p>
- 
-- 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
-- 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate on Github
-- 📫 How to reach me for commissioned **programs or collab**: [Telegram](https://t.me/zztakdeR)
-
----
-
-<p align="center">
-
-<h3 align="center">My Github Stats</h3>
-</p>
-
+<!-- Github README -->
+<p align="center"><a href="https://github.com/redkatz">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=redkatz&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/redkatz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redkatz&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
+<h2><b><i>Hi , it's RedKatz 👋</i></b></h2>
+<b><i>💻 I'm a Student</i></b>
 
 
+- 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
+- 🌱 I’m currently learning c++
+- 👯 I’m looking to collaborate on Github
+- 📫 How to reach me for commissioned **programs or collab**: [Telegram](https://t.me/zztakdeR)
 
----
+### 👨‍💻 Works:
 
-<p align="center">
-  <a href="" target="_blank"><img alt="home" src="https://img.shields.io/badge/I%20Use%20Artix%20LINUX-gray?style=for-the-badge&logo=artixlinux&logoColor=li"></a>
-
-
-</p>
-
+- [SocialMediaHackingToolkit](https://github.com/RedKatz/SocialMediaHackingToolkit) - 🔒 Social Media Hacking Suite
+- [ExaPhisher](https://github.com/RedKatz/ExaPhisher) - Phishing Toolkit
+- [Lawliet](https://github.com/RedKatz/LawLiet) - 🕵️ Track down social media profiles using a specific username across multiple social network platforms 
 
