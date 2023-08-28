@@ -10,13 +10,13 @@
 
 
 - 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me for commissioned **programs or collab**: [Telegram](https://t.me/zztakdeR)
 
 ### 👨‍💻 Works:
 
 - [SocialMediaHackingToolkit](https://github.com/RedKatz/SocialMediaHackingToolkit) - 🔒 Social Media Hacking Suite
-- [ExaPhisher](https://github.com/RedKatz/ExaPhisher) - Phishing Toolkit
+- [ExaPhisher](https://github.com/RedKatz/ExaPhisher) - 🐟 All in one Phishing Toolkit
 - [Lawliet](https://github.com/RedKatz/LawLiet) - 🕵️ Track down social media profiles using a specific username across multiple social network platforms 
 
