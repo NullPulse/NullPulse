@@ -23,4 +23,4 @@
 ### Find me on:
 
 - [Telegram](https://t.me/zztakdeR) - **Only** for collab or commissionated program.
-- [For issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) - **Only** if you have an issue.
+- [For issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) - **Only** if you have an issue.
