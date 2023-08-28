@@ -22,5 +22,5 @@
 
 ### Find me on:
 
-- [Telegram](t.me/redkatz) - **Only** for collab or commissionated program.
+- [Telegram](https://t.me/redkatz) - **Only** for collab or commissionated program.
 - [For issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) - **Only** if you have an issue.
