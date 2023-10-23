@@ -9,18 +9,12 @@
 <b><i>💻 I'm a Student</i></b>
 
 
-- 🔭 I’m currently working on [Lawliet](https://github.com/RedKatz/Lawliet)
+- 🔭 I’m currently working on [Lawliet](https://github.com/SamueleAmato/Lawliet)
 - 🌱 I’m currently learning rust
-- 👯 I’m looking to collaborate on Github
-- 📫 How to reach me for commissioned **programs or collab**: [Telegram](https://t.me/zztakdeR)
 
 ### 👨‍💻 Works:
 
-- [SocialMediaHackingToolkit](https://github.com/RedKatz/SocialMediaHackingToolkit) - 🔒 Social Media Hacking Suite
-- [ExaPhisher](https://github.com/RedKatz/ExaPhisher) - 🐟 All in one Phishing Toolkit
-- [Lawliet](https://github.com/RedKatz/LawLiet) - 🕵️ Track down social media profiles using a specific username across multiple social network platforms 
+- [SocialMediaHackingToolkit](https://github.com/SamueleAmato/SocialMediaHackingToolkit) - 🔒 Social Media Hacking Suite
+- [ExaPhisher](https://github.com/SamueleAmato/ExaPhisher) - 🐟 All in one Phishing Toolkit
+- [Lawliet](https://github.com/SamueleAmato/LawLiet) - 🕵️ Track down social media profiles using a specific username across multiple social network platforms 
 
-### Find me on:
-
-- [Telegram](https://t.me/zztakdeR) - **Only** for collab or commissionated program.
-- [For issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) - **Only** if you have an issue.
