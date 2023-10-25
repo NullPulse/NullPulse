@@ -5,7 +5,7 @@
 <a href="https://github.com/redkatz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Hi , it's RedKatz 👋</i></b></h2>
+<h2><b><i>Hi, 👋</i></b></h2>
 <b><i>💻 I'm a Student</i></b>
 
 
