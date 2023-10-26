@@ -5,16 +5,4 @@
 <a href="https://github.com/SamueleAmato"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleAmato&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Hi 👋</i></b></h2>
-<b><i>💻 I'm a Student</i></b>
-
-
-- 🔭 I’m currently working on [Lawliet](https://github.com/SamueleAmato/Lawliet)
-- 🌱 I’m currently learning rust
-
-### 👨‍💻 Works:
-
-- [SocialMediaHackingToolkit](https://github.com/SamueleAmato/SocialMediaHackingToolkit) - 🔒 Social Media Hacking Suite
-- [ExaPhisher](https://github.com/SamueleAmato/ExaPhisher) - 🐟 All in one Phishing Toolkit
-- [Lawliet](https://github.com/SamueleAmato/LawLiet) - 🕵️ Track down social media profiles using a specific username across multiple social network platforms 
-
+<p align="center"><a href="https://samueleamato.github.io/">samueleamato.github.io</a></p>
