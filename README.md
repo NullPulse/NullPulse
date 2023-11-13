@@ -6,3 +6,9 @@
 </a></p>
 
 <p align="center"><a href="https://samueleamato.github.io/">samueleamato.github.io</a></p>
+
+<br>
+
+<p align="center"><a href="https://github.com/SamueleAmato">
+<img src="https://komarev.com/ghpvc/?username=samueleamato&style=flat&color=313131&label=views">
+</a></p>
