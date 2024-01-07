@@ -5,7 +5,7 @@
 <a href="https://github.com/NullPulse"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullPulse&layout=compact&theme=dark&hide_border=true" />
 </a></p>
 
-<p align="center"><a href="https://NullPulse.github.io/">samueleamato.github.io</a></p>
+<p align="center"><a href="https://NullPulse.github.io/">NullPulse.github.io</a></p>
 
 <br>
 
